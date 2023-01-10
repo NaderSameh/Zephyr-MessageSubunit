@@ -20,20 +20,20 @@ Requirements
 The software is built upon Zephyr RTOS, it is built and ran on nRF52833 with the below output
 
 Running output
-************
+**************
 ..
 TEMP READING = {"T": "25"}
+
 ACC READING = {"ACC": "true"}
+
 ACC READING = {"ACC": "true"}
+
 TEMP READING = {"T": "25"}
+
 ACC READING = {"ACC": "true"}
+
 ACC READING = {"ACC": "true"}
+
 MODEM RESPONSE = {"GPS": "30.3123213,31.231231"}
-TEMP READING = {"T": "25"}
-ACC READING = {"ACC": "true"}
-ACC READING = {"ACC": "true"}
-TEMP READING = {"T": "25"}
-ACC READING = {"ACC": "true"}
-ACC READING = {"ACC": "true"}
-MODEM RESPONSE = {"GPS": "30.3123213,31.231231"}
+
 ....
